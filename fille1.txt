@@ -8,3 +8,5 @@ https://git-scm.com/book/fr/v1/Les-branches-avec-Git-Ce-qu-est-une-branche
 =======
 https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf
 >>>>>>> 353c6bbeb3f41e9e1fa25d77f86f2caca0a8e5f3
+https://www.youtube.com/results?search_query=git+merge
+
