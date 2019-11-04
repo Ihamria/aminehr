@@ -1,1 +1,2 @@
 https://git-scm.com/book/fr/v1/Personnalisation-de-Git-Configuration-de-Git
+https://git-scm.com/book/fr/v1/Les-branches-avec-Git-Ce-qu-est-une-branche
