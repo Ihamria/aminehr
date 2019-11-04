@@ -9,6 +9,7 @@ bonjour
  </body>
 </html>
 #hello 
+
 <<<<<<< HEAD
 hi ..
 =======
