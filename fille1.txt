@@ -1,1 +1,2 @@
 https://git-scm.com/book/fr/v1/Personnalisation-de-Git-Configuration-de-Git
+https://www.youtube.com/watch?v=THsj6g_kG10
