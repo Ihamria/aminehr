@@ -1,1 +1,3 @@
 https://www.hostinger.fr/tutoriels/commandes-git/
+
+https://git-scm.com/book/fr/v1/Les-branches-avec-Git-Gestion-de-branches
