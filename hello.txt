@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiiiiiiiiiiiiiiiiiiiiiiiiiiooo
+=======
+hello everyone
+>>>>>>> bc243c5bacac7021198d8869696897c2cd806b94
